@@ -20,3 +20,5 @@ Make sure you have **Python 3.x** installed.
 Make sure the image and the python program are in the same file. If not bring the image in the same file as the code or else make sure you use a proper image path 
 
 for eg. image_path = r"C:\Users\YourName\Pictures\my_photo.jpg"
+
+I used the dinasaur image (provided in the repository) for the encryption, you can use any image to your liking.
